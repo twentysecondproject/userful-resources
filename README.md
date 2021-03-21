@@ -9,4 +9,4 @@ To get your tool/source added, please open a PR.
 ## Open Source
 * ZAB Open Source Website - https://gitlab.com/albuquerque-web-stack (NodeJS)
 * ZDC Open Source Website - https://github.com/vzdc/ZDC.Web (C#)
-* Control Centr - [https://github.com/Vatsim-Scandinavia/controlcenter](https://github.com/Vatsim-Scandinavia/controlcenter) (Laravel based Training Management System)
+* Control Center - [https://github.com/Vatsim-Scandinavia/controlcenter](https://github.com/Vatsim-Scandinavia/controlcenter) (Laravel based Training Management System)
