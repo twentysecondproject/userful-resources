@@ -1,5 +1,6 @@
 # Useful Network Resource
-This repo is provided as a central resource for links to open-sourced/useable tools and code for consumption
+This repo is provided as a central resource for links to open-sourced/useable tools and code for consumption.
+To get your tool/source added, please open a PR.
 
 
 ## Tools
